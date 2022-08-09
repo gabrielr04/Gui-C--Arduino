@@ -1,0 +1,11 @@
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\bin\Debug\Gui-interfaz.exe.config
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\bin\Debug\Gui-interfaz.exe
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\bin\Debug\Gui-interfaz.pdb
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.csproj.AssemblyReference.cache
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui_interfaz.Form1.resources
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui_interfaz.Properties.Resources.resources
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.csproj.GenerateResource.cache
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.csproj.CoreCompileInputs.cache
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.exe
+C:\Users\GROMERO\Documents\interfaz\C V2\Gui-interfaz\Gui-interfaz\obj\Debug\Gui-interfaz.pdb
